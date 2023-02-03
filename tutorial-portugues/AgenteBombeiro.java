@@ -1,3 +1,6 @@
+/**
+ * java jade.Boot -gui -agents "Bombeiro:AgenteBombeiro;A1:AgenteAlarmado"
+ * */
 import jade.core.Agent ;
 import jade.core.behaviours.CyclicBehaviour ;
 import jade.lang.acl.ACLMessage ;
